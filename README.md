@@ -15,6 +15,8 @@ As of 7/31/2017 (approx. 4 days into the project) I have yet to find a company t
 
 The action is two part:
 
-1.  Run the "getNytArticles" macro in the "GetNewYorkTimes" module to obtain all New York Times articles for the last week.  The default is set to Trump.  Articles are inserted into the "ArticleRepo" table.
+1.  Run the "getNytArticles" macro in the "GetNewYorkTimes" module to obtain all New York Times articles for the last week.  The default is set to Trump.  Articles are inserted into the "ArticleRepo" table.  You can also run the NewsAPI macro, though correction identification and keyword searches are not applicable.
 
 2.  Run the "checkForCorrections" macro in the "ArticleScrapers" module to check for corrections.  This will load all articles from the database and one-by-one obtain the html for the article and search for the correction class.  If corrections are found, they should be logged in the error table and the article should be updated with a reference to the correction.  NOT YET COMPLETED; error handling required.
+
+NOTE: If you intend to test these macros, you need the New York Times and News API keys respectively.  These can be obtained online for free.
