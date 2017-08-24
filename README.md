@@ -4,7 +4,7 @@
 
 #### About This Project
 
-I began this project with the hypothesis that American news agencies are more than willing to offer corrections because the American people at large have a short memory for events, and the correction of an article usually does not incite enough emotion to give news companies pause.  There is also a strong incentive within the industry for personnel to reveal stories in advance of their competitors.
+I began this project with the hypothesis that American news agencies are more than willing to offer corrections because the American people at large have a short memory for events, and the correction of an article usually does not incite enough emotion to give news companies pause.  There is also a strong incentive within the industry for personnel to reveal stories in advance of their competitors, leaving little time to verify the information that is to be published.
 
 With that in mind I set out to catalog news articles by category and analyze the data to determine whether corrections issued by an organization were indicative of political bias or if the mistakes were made in ernest.  I obtained a New York Times API key and a News API key.  I then created my Access database, wrote some VBA code to automate data collection, and set out to find out how companies display their corrections.
 
