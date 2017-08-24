@@ -10,7 +10,7 @@ With that in mind I set out to catalog news articles by category and analyze the
 
 What I found was shocking.  Most news companies do not post their corrections in a transparent manner such that you can find both the correction AND the article.  Whats more, many companies italicize their corrections and place them at the bottom of articles such that they are not well visible and a reader may never know the article was corrected.  Additionally, many companies place their correction text inside of "normal" html elements with no tag to indicate that a correction exists.
 
-As of 7/31/2017 (approx. 4 days into the project) I have yet to find a company that meets the standard of the New York Times, providing 1) an API, 2) html identifications of corrections through class assignment, 3) emboldened headings on corrections, and 4) a corrections page.  Because the New York Times is the only company for which I am able to find solid corrections information, I am going to discontinue the project for the time being; I would need at least 5 companies with easily accessible corrections to make this project worth further consideration.
+As of 7/31/2017 (approx. 4 days into the project) I have yet to find a company that meets the standard of the New York Times, providing 1) an API, 2) html identifications of corrections through class assignment, 3) emboldened headings on corrections, and 4) an easily searchable corrections archive.  Because the New York Times is the only company for which I am able to find solid corrections information, I am going to discontinue the project for the time being; I would need at least 5 companies with easily accessible corrections to make this project worth further consideration.
 
 #### How it works
 
