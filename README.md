@@ -1,5 +1,6 @@
 # Fetch and Scrape Articles for Corrections
 
+### NOTE: NYT NOW REQUIRES SUBSCRIPTION, corrections are probably not able to be found now :(
 
 #### About This Project
 
